@@ -33,6 +33,7 @@ nav li a:hover {
 	font-family: Oswald;
 }
 .header {
+	background-image: url ('header light.jpg')
 	margin: 45px;
 	color: #99ccff;
 	font-family: Oswald;
