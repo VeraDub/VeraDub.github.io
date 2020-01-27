@@ -115,7 +115,7 @@ nav li a:hover {
 	margin-bottom: 100px;
 	vertical-align: top;
 }
-.mark {
+mark {
 	background-color: #cce6ff;
 	color: #404040;
 }
