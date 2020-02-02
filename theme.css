@@ -3,6 +3,7 @@ nav li {
 }
 .active {
   background-color: #e6eeff;
+	
 }
 li a {
   color: black;
@@ -13,7 +14,7 @@ li a {
  nav ul {
   list-style-type: none;
   margin: 0;
-  padding: 0;
+  padding: 10px;
   overflow: hidden;
   background-color: white;
 }
