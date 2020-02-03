@@ -8,8 +8,10 @@ nav li {
 li a {
   color: black;
   text-align: center;
-  padding: 14px 145px;
+  padding: 14px 130px;
   text-decoration: none;
+line-height: 45px;
+font-size: 20px;
 }
  nav ul {
   list-style-type: none;
